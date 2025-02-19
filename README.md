@@ -1,4 +1,5 @@
 ## Hi there 👋
+Currently Learning Git!
 
 <!--
 **OmegaZerg/OmegaZerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
