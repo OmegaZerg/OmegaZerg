@@ -1,5 +1,21 @@
 ## Hi there 👋
-Currently Learning Git!
+####Just a Sr. Business Analyst trying to do Software Engineer things!!
+
+🔭 ######I’m currently working on ...
+<ul>
+  <li>Boot.dev backend developer track</li>
+</ul>
+
+🌱 ######I’m currently learning ...
+<ul>
+  <li>Data Structures and Algorithms</li>
+</ul>
+
+👯 ######I’m looking to collaborate on ...
+<ul>
+  <li>Game development</li>
+  <li>Small website projects</li>
+</ul>
 
 <!--
 **OmegaZerg/OmegaZerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
