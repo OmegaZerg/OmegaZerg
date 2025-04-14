@@ -1,17 +1,17 @@
 ## Hi there 👋
-####Just a Sr. Business Analyst trying to do Software Engineer things!!
+Just a Sr. Business Analyst trying to do Software Engineer things!!
 
-🔭 ######I’m currently working on ...
+🔭 I’m currently working on ...
 <ul>
   <li>Boot.dev backend developer track</li>
 </ul>
 
-🌱 ######I’m currently learning ...
+🌱 I’m currently learning ...
 <ul>
   <li>Data Structures and Algorithms</li>
 </ul>
 
-👯 ######I’m looking to collaborate on ...
+👯 I’m looking to collaborate on ...
 <ul>
   <li>Game development</li>
   <li>Small website projects</li>
