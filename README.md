@@ -8,7 +8,9 @@ Just a Sr. Business Analyst trying to do Software Engineer things!!
 
 🌱 I’m currently learning ...
 <ul>
-  <li>Data Structures and Algorithms</li>
+  <li>JavaScript/TypeScript</li>
+  <li>Async I/O</li>
+  <li>UI Development</li>
 </ul>
 
 👯 I’m looking to collaborate on ...
