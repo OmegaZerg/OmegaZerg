@@ -5,6 +5,7 @@ Just a Sr. Business Analyst trying to do Software Engineer things!!
 <ul>
   <li>Boot.dev backend developer track</li>
   <li>Project Pet-Track</li>
+  <li>Project Meal Prep</li>
 </ul>
 
 🌱 I’m currently learning ...
