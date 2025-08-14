@@ -4,12 +4,14 @@ Just a Sr. Business Analyst trying to do Software Engineer things!!
 🔭 I’m currently working on ...
 <ul>
   <li>Boot.dev backend developer track</li>
-  <li>Project Pet-Track</li>
-  <li>Project Meal Prep</li>
+  <li>theAcolytesCompiler</li>
+  <li>PetTrack</li>
+  <li>MealPrep</li>
 </ul>
 
 🌱 I’m currently learning ...
 <ul>
+  <li>Golang</li>
   <li>JavaScript/TypeScript</li>
   <li>Async I/O</li>
   <li>UI Development</li>
